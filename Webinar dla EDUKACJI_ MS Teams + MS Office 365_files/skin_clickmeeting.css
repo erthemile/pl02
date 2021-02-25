@@ -1,0 +1,435 @@
+::selection {background:#c9e1b9}
+::-moz-selection {background:#c9e1b9}
+
+.page-footer {
+    color:#232728;
+    background:#fff;
+    box-shadow:inset 0 1px 1px rgba(0,0,0,.12);
+}
+
+
+dfn .price {
+    background:#6fbf3b;
+}
+
+.highlight {
+    color:#6ebe3b !important;
+}
+
+
+/* [ ico close ] */
+.close {
+    color:#bcbdbf;
+    background:#fff;
+    border:4px solid #77c843;
+}
+.ico-product-meeting,
+.ico-product-webinar {
+    stroke:#6ebe3b;
+}
+
+.list-pictogram a:hover .pictogram,
+.list-pictogram .active .pictogram,
+.list-pictogram a:hover .list-pictogram-hd,
+.list-pictogram .active .list-pictogram-hd,
+.list-step-hd:before {
+    color:#6ebe3b;
+}
+.list-pictogram a:hover .pictogram-addon,
+.list-pictogram .active .pictogram-addon {
+    background-color:#6ebe3b;
+}
+
+.btn-success,
+.components-title,
+.timezone .tzBtn,
+.sp-container .sp-choose,
+.trumbowyg-modal-box .trumbowyg-modal-submit,
+.btn-choice-success .hide-check:checked + label,
+.unit-hov:hover .unit-hd,
+.addnew-success .addnew,
+.overlap-success,
+.keypad-presenter .key.active {
+    background:#6ebe3b;
+    background-color:#6ebe3b;
+    background:-webkit-linear-gradient(top,  #79cb45 0%,#6ebe3b 100%);
+    background:linear-gradient(to bottom,  #79cb45 0%,#6ebe3b 100%);
+}
+.btn-success:hover,
+.btn-success.active,
+.open .dropdown-toggle.btn-success,
+.components-title:hover,
+.components-title.active,
+.sp-container .sp-choose:hover,
+.trumbowyg-modal-box .trumbowyg-modal-submit:hover,
+.addnew-success a:hover .addnew {
+    background:#7cc643;
+    background:-webkit-linear-gradient(top,  #89d24e 0%,#7cc643 100%);
+    background:linear-gradient(to bottom,  #89d24e 0%,#7cc643 100%);
+}
+.overlap-success.flat {
+    background:#6ebe3b;
+}
+.btn-success.disabled,
+.btn-success[disabled],
+fieldset[disabled] .btn-success,
+.btn-success.disabled:hover,
+.btn-success[disabled]:hover,
+fieldset[disabled] .btn-success:hover,
+.btn-success.disabled.active,
+.btn-success[disabled].active,
+fieldset[disabled] .btn-success.active {
+    background-color:#89d24e;
+}
+
+/* [ caret list ] */
+.list-caret-item:before,
+.list-choose-separated [data-icon*='caret-right'],
+.dropdown-list-icons li > a:before,
+.nav-highcharts [data-icon*='caret-right'] {
+    border-left-color:#6ebe3b;
+}
+.nav-highcharts [data-icon*='caret-left'] {
+    border-right-color:#6ebe3b;
+}
+
+
+.form-series-btn:hover [data-icon*='caret-bottom'] {
+    border-top-color:#6ebe3b;
+}
+.form-series-btn:hover [data-icon*='caret-top'],
+.nav-tabs .active > a,
+.nav-tabs .active > a:hover,
+.nav-tabs .ui-state-active a,
+.nav-tabs .ui-state-active a:hover,
+.dropdown-success.has-dropdown-header.pos-tl .dropdown-wrap:after,
+.dropdown-success.has-dropdown-header.pos-tc .dropdown-wrap:after,
+.dropdown-success.has-dropdown-header.pos-tr .dropdown-wrap:after {
+    border-bottom-color:#6ebe3b;
+}
+h2 em,
+.h-legend,
+.float-label-active,
+.form-control-icon-active,
+.helper:hover,
+.list-checked-success > li:before,
+.nav-pills .active,
+.nav-pills .active a,
+.nav-tabs a svg,
+.nav-tabs-opaque .active svg,
+.nav-tabs-opaque .ui-tabs-active svg,
+.check:before,
+.switch-action label .action-add [data-icon],
+.input-group-addon[data-icon='p'],
+.input-group-addon[data-icon='v'],
+.input-group-addon[data-icon='q'],
+.input-group-addon[data-icon='o'],
+.form-horizontal .form-legend,
+.form-inline .form-legend,
+.required .form-label:before,
+.required .f-holder:before,
+.hide-check:checked + .unit-circle,
+.hide-check + .unit-circle.zeroclipboard-is-active,
+.page-header .page-header-ico,
+.page-header h2,
+.component-wrap:hover,
+.component-presenter .component:hover,
+.timeline .unit-hd [data-icon]:before,
+.list-component-date,
+.keypad-presenter .unit-title,
+.app-connected .app-hd .app-ico,
+.welldone-section h3,
+.action-wrap li svg,
+/* [ datapicker ] */
+.ui-datepicker-prev:hover,
+.ui-datepicker-next:hover,
+.ui-datepicker table .ui-datepicker-current-day,
+.ui-datepicker table .ui-state-highlight,
+.account .dropdown-menu-user .avatar,
+.account .dropdown-menu-user .name,
+.slide-nav:hover,
+.statistics-section .unit-muted:hover,
+a:hover .addnew,
+.social-ico-user + div,
+.overlap-default,
+.swiper-nav:hover {
+    color:#6ebe3b;
+}
+.radio:before,
+.switch .left,
+.dropdown-success .dropdown-hd,
+.avatar .dsp-cell,
+.unit-hov-bordered:hover .unit-hd,
+.unit-hov-bordered.js-hover .unit-hd,
+.figure .actions,
+.files-thumbs-section .figure-wrap:hover .thumb-title,
+.gallery-hov-bordered:hover .thumb-title,
+.hide-check:checked + .gallery-hov-bordered .thumb-title,
+.toggle-hide,
+.component:hover .avatar,
+.component:hover .special-line,
+.component:hover .special-line:after,
+.component-radio:hover .component .ico,
+.move-section .action-wrap .actions,
+.dropdown-tool-option .figure,
+.cropzoom,
+/* [ fancybox ] */
+.popup-with-head .fancybox-title-inside-wrap,
+/* [ datapicker ] */
+.ui-datepicker table .ui-state-active,
+/* [ ui-slider ] */
+.ui-slider-success .ui-widget-header,
+.social-ico-user {
+    background:#6ebe3b;
+}
+
+input:focus,
+textarea:focus,
+.select:focus,
+/* [ spectrum ] */
+.sp-dragger,
+.sp-replacer.sp-active,
+.gallery-hov-bordered:hover .img-decorate,
+.hide-check:checked + .gallery-hov-bordered .img-decorate,
+a:hover .addnew,
+.component-wrap:hover .component,
+/* drag & drop dla sekcji */
+.rebranding section.move-section,
+.ui-resizable-handle,
+.rebranding .move-section > td > table,
+.dropdown-tool-option .figure,
+.cropzoom,
+/* [ spectrum ] */
+.sp-dragger,
+.sp-replacer.sp-active {
+    border-color:#6ebe3b;
+    outline-color:#6ebe3b;
+}
+
+.unit-hov-bordered.js-hover,
+.unit-hov-bordered.zeroclipboard-is-hover,
+.unit-hov-bordered:hover,
+.list-component-images.list-tiles .unit-hov-bordered:hover,
+.hide-check:checked + .unit-hov-bordered {
+    border-color:#6ebe3b;
+    box-shadow:0 0 0 2px #6ebe3b;
+}
+
+.unit .ico-add,
+.unit .ico-check,
+.gallery .ico-check,
+.component .ico-check,
+.progress-radial-success .fill,
+.book .name.active,
+.book .name.active:hover,
+/* [ trumbowyg ] */
+.trumbowyg-button-pane li a.trumbowyg-active,
+.trumbowyg-button-pane li a.trumbowyg-active:hover {
+    background-color:#6ebe3b;
+}
+
+.helper .helper-bd:before {
+    background-image:url(/account_panel/images/brand/clickmeeting/helper_arrows.png);
+}
+
+.list-editable-hov:hover {
+    background:rgba(107,185,57,.2);
+}
+
+
+.list-chat .featured .comment {
+    color:#4a5641;
+    background:#daf3c8;
+}
+.list-chat .comment-layout-1.featured .comment:after {
+    border-right-color:#daf3c8;
+}
+.list-chat .comment-layout-2.featured .comment:after {
+    border-left-color:#daf3c8;
+}
+.list-chat .featured .comment-options {
+    color:#a0b68f;
+}
+
+
+.hide-check:checked + .component {
+    border-color:#6ebe3b;
+    box-shadow:0 0 0 1px #6ebe3b;
+}
+
+.timeline .badge {
+    background: #6ebe3b;
+    background: -webkit-linear-gradient(top,  #8dcf52 0%,#5eb438 100%);
+    background: linear-gradient(to bottom,  #8dcf52 0%,#5eb438 100%);
+}
+
+
+/* [ calendar ] */
+
+.c-event.meeting {
+    background:#6ebe3b;
+}
+.c-event.meeting:hover {
+    background:#80ce43;
+}
+.c-event {
+    background-color:#66b727;
+}
+.c-event:hover {
+    background-color:#76be3d;
+}
+
+.event-info .owner,
+.event-info .time [data-icon] {
+    color:#6ebe3b;
+}
+.c-day-collapsed .c-events-stacked {
+    background:#6ebe3b;
+}
+/* dodawanie eventow */
+.c-day:hover .c-events-wrapper {
+    box-shadow: 0 0 0 3px #6ebe3b;
+}
+.c-day .ico-check {
+    background:#6ebe3b;
+}
+.c-day .ico-check:hover {
+    background:#80ce43;
+}
+/*.c-day .ico-add-webinar {
+    background-color:#66b727;
+}
+.c-day .ico-add-webinar:hover {
+    background-color:#76be3d;
+}*/
+.c-day-past .c-event,
+.c-day-past .c-event:hover,
+.c-day-past.c-day-collapsed .c-events-stacked {
+    background:rgba(110,190,59,.6);
+}
+.c-day-current .c-events-day-number {
+    color:#6ebe3b;
+}
+
+
+/* [ select2 ] */
+.select2-drop-active {
+    border-color:#6ebe3b;
+    border-top:none;
+}
+.select2-drop.select2-drop-above.select2-drop-active {
+    border-top-color:#6ebe3b;
+}
+.select:after,
+.sp-replacer,
+.select2-container .select2-choice .select2-arrow b,
+.f-timezone-toggle input[type='text'] {
+    background-image:url(data:image/gif;base64,R0lGODlhEwAEAIABAG6+OwAAACH5BAEAAAEALAAAAAATAAQAAAINhA+hy4vZojOyKmhZAQA7);
+}
+.select2-search:after {
+    color:#6ebe3b;
+}
+.select2-container-active .select2-choice,
+.select2-container-active .select2-choices {
+    border-color:#6ebe3b;
+}
+.select2-dropdown-open .select2-choice {
+    border-bottom-color:transparent;
+}
+.select2-dropdown-open.select2-drop-above .select2-choice,
+.select2-dropdown-open.select2-drop-above .select2-choices {
+    border-color:#6ebe3b;
+    border-top-color:transparent;
+}
+.select2-dropdown-open .select2-choice .select2-arrow {
+    border-left:none;
+}
+.select2-dropdown-open .select2-choice .select2-arrow b {
+    background-image:url('data:image/gif;base64,R0lGODlhEwAEAIABAG6+OwAAACH5BAEAAAEALAAAAAATAAQAAAINjGGpm+AMj3tRzVtTAQA7');
+}
+.select2-container-multi.select2-container-active .select2-choices {
+    border-color:#6ebe3b;
+}
+.select2-container-multi.select2-container-active.select2-drop-above .select2-choices {
+    border-top-color:transparent;
+}
+
+
+/*.btn-success[data-loading='true'] {
+    background:#67b837;
+}
+.btn-success .spinner-btn {
+    background-image:url(/account_panel/images/indicators/loader_success_16.gif);
+}
+.btn-success.large .spinner-btn,
+.btn-success.x-large .spinner-btn {
+    background-image:url(/account_panel/images/indicators/loader_success_24.gif);
+}
+*/
+
+/*---------------------------------------------------------------------------------------------
+[ main nav + footer ]
+*/
+.page-footer .logotype {
+    display:inline-block;
+    vertical-align:middle;
+    width:148px;
+    height:30px;
+    margin:-5px 10px 0 0;
+    background:url(/account_panel/images/brand/clickmeeting/logotype_dark.svg) no-repeat 0 0;
+}
+.navbar.bg-dark {
+    background: #20242e !important;
+}
+.navbar .navbar-brand {
+    width: 140px;
+    height: 44px;
+    background:url(/account_panel/images/brand/clickmeeting/logotype_white_accent.svg) no-repeat 0 center;
+}
+/*---------------------------------------------------------------------------------------------
+[ Authorization ]
+*/
+.auth h1 em {
+    color:#6ebe3b;
+}
+.auth .navbar-brand {
+    width:310px;
+    height:62px;
+    background-image:url(/account_panel/images/brand/clickmeeting/logotype_white_accent.svg);
+    /*background-image:url(/account_panel/images/brand/clickmeeting/auth_logo_x301.png);*/
+    background-repeat: no-repeat;
+}
+
+
+/*---------------------------------------------------------------------------------------------
+[ Room ]
+*/
+.room-page {
+    background:#383b46 url(/account_panel/images/room/bg_pattern.jpg) repeat 0 0;
+}
+.room-page-middle {
+    background:url(/account_panel/images/room/bg_light.jpg) no-repeat 50% 0;
+}
+.room-page .navbar .navbar-brand {
+    width:135px;
+    height:28px;
+    margin:4px 0 0;
+    background-image:url(/account_panel/images/brand/clickmeeting/logotype_white_accent.svg);
+    /*background-image:url(/account_panel/images/brand/clickmeeting/room_logo_x134.png);*/
+}
+.room-invitation-confirmation .navbar .navbar-brand {
+    width:212px;
+    height:42px;
+    margin:59px auto 20px;
+    background-image:url(/account_panel/images/brand/clickmeeting/room_invitation_confirmation_logotype.svg);
+}
+/*---------------------------------------------------------------------------------------------
+[ Secure ]
+*/
+.order-form .navbar-brand {
+    background-image:url(/account_panel/images/brand/clickmeeting/logotype_white_accent.svg);
+    /*background-image:url(/account_panel/images/brand/clickmeeting/secure_logo_x114.png);*/
+    height:22px;
+    margin:13px 0;
+    width:114px;
+}

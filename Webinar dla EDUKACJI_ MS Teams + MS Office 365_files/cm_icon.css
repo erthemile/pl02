@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'untitledregular';
+    src: url('/account_panel/fonts/cm_icon/cm_icon_font.eot');
+    src: url('/account_panel/fonts/cm_icon/cm_icon_font.eot?#iefix') format('embedded-opentype'),
+         url('/account_panel/fonts/cm_icon/cm_icon_font.woff2') format('woff2'),
+         url('/account_panel/fonts/cm_icon/cm_icon_font.woff') format('woff'),
+         url('/account_panel/fonts/cm_icon/cm_icon_font.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+[data-icon]:before {font-family:'untitledregular' !important; font-weight:normal; content:attr(data-icon); speak:none; position:relative; top:-1px;}
